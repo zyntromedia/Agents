@@ -1,0 +1,1076 @@
+{
+  "schemaVersion": 3,
+  "timestamp": "2026-09-28T15:14:44.650Z",
+  "host": {
+    "platform": "win32",
+    "arch": "x64",
+    "release": "10.0.26200",
+    "hostname": "NAP"
+  },
+  "workspace": {
+    "name": "DolaAI",
+    "folder": "c:\\Users\\SNAP\\Documents\\GitHub\\DolaAI"
+  },
+  "git": {
+    "available": true,
+    "branch": "main",
+    "commit": "d934eff575e88250c4d94b8599253c39f9ffc835",
+    "shortCommit": "d934eff",
+    "dirty": true,
+    "remoteUrl": "https://github.com/zyntromedia/DolaAI.git"
+  },
+  "runtimes": {
+    "git": "2.55.0",
+    "python3": "3.12.10",
+    "dotnet": "10.0.401"
+  },
+  "docker": {
+    "available": true,
+    "version": "29.8.0",
+    "composeVersion": "5.5.1",
+    "containers": []
+  },
+  "ports": [
+    {
+      "port": 135,
+      "protocol": "tcp",
+      "pid": 1828
+    },
+    {
+      "port": 139,
+      "protocol": "tcp",
+      "pid": 4
+    },
+    {
+      "port": 445,
+      "protocol": "tcp",
+      "pid": 4
+    },
+    {
+      "port": 1462,
+      "protocol": "tcp",
+      "pid": 4
+    },
+    {
+      "port": 3100,
+      "protocol": "tcp",
+      "pid": 34112
+    },
+    {
+      "port": 5040,
+      "protocol": "tcp",
+      "pid": 6272
+    },
+    {
+      "port": 5357,
+      "protocol": "tcp",
+      "pid": 4
+    },
+    {
+      "port": 6463,
+      "protocol": "tcp",
+      "pid": 23228
+    },
+    {
+      "port": 8081,
+      "protocol": "tcp",
+      "pid": 34112
+    },
+    {
+      "port": 11434,
+      "protocol": "tcp",
+      "pid": 24756
+    },
+    {
+      "port": 12025,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12110,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12119,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12143,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12422,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12423,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12465,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12563,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12993,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 12995,
+      "protocol": "tcp",
+      "pid": 4080
+    },
+    {
+      "port": 15292,
+      "protocol": "tcp",
+      "pid": 31188
+    },
+    {
+      "port": 26822,
+      "protocol": "tcp",
+      "pid": 16724
+    },
+    {
+      "port": 32683,
+      "protocol": "tcp",
+      "pid": 9644
+    },
+    {
+      "port": 33683,
+      "protocol": "tcp",
+      "pid": 9644
+    },
+    {
+      "port": 49664,
+      "protocol": "tcp",
+      "pid": 1572
+    },
+    {
+      "port": 49665,
+      "protocol": "tcp",
+      "pid": 1396
+    },
+    {
+      "port": 49666,
+      "protocol": "tcp",
+      "pid": 2196
+    },
+    {
+      "port": 49667,
+      "protocol": "tcp",
+      "pid": 2776
+    },
+    {
+      "port": 49668,
+      "protocol": "tcp",
+      "pid": 4716
+    },
+    {
+      "port": 49670,
+      "protocol": "tcp",
+      "pid": 1516
+    },
+    {
+      "port": 49853,
+      "protocol": "tcp",
+      "pid": 8164
+    },
+    {
+      "port": 50513,
+      "protocol": "tcp",
+      "pid": 3640
+    },
+    {
+      "port": 51545,
+      "protocol": "tcp",
+      "pid": 30828
+    },
+    {
+      "port": 53185,
+      "protocol": "tcp",
+      "pid": 11768
+    },
+    {
+      "port": 53429,
+      "protocol": "tcp",
+      "pid": 34492
+    },
+    {
+      "port": 54321,
+      "protocol": "tcp",
+      "pid": 34112
+    },
+    {
+      "port": 54596,
+      "protocol": "tcp",
+      "pid": 11768
+    },
+    {
+      "port": 55384,
+      "protocol": "tcp",
+      "pid": 11768
+    },
+    {
+      "port": 55385,
+      "protocol": "tcp",
+      "pid": 11768
+    },
+    {
+      "port": 55386,
+      "protocol": "tcp",
+      "pid": 11768
+    },
+    {
+      "port": 55387,
+      "protocol": "tcp",
+      "pid": 11768
+    },
+    {
+      "port": 55699,
+      "protocol": "tcp",
+      "pid": 3112
+    },
+    {
+      "port": 56368,
+      "protocol": "tcp",
+      "pid": 34112
+    },
+    {
+      "port": 57105,
+      "protocol": "tcp",
+      "pid": 16480
+    },
+    {
+      "port": 59020,
+      "protocol": "tcp",
+      "pid": 8164
+    },
+    {
+      "port": 59275,
+      "protocol": "tcp",
+      "pid": 18004
+    },
+    {
+      "port": 61983,
+      "protocol": "tcp",
+      "pid": 24932
+    },
+    {
+      "port": 62732,
+      "protocol": "tcp",
+      "pid": 24932
+    },
+    {
+      "port": 63035,
+      "protocol": "tcp",
+      "pid": 16480
+    },
+    {
+      "port": 63037,
+      "protocol": "tcp",
+      "pid": 34492
+    },
+    {
+      "port": 63040,
+      "protocol": "tcp",
+      "pid": 34492
+    },
+    {
+      "port": 64465,
+      "protocol": "tcp",
+      "pid": 30812
+    },
+    {
+      "port": 64466,
+      "protocol": "tcp",
+      "pid": 30812
+    },
+    {
+      "port": 64473,
+      "protocol": "tcp",
+      "pid": 36336
+    },
+    {
+      "port": 64474,
+      "protocol": "tcp",
+      "pid": 36336
+    }
+  ],
+  "env": [
+    {
+      "key": "registry",
+      "source": "dotenv",
+      "file": ".env"
+    }
+  ],
+  "scripts": [],
+  "lockfiles": [],
+  "extensions": [
+    {
+      "id": "aaron-bond.better-comments",
+      "version": "3.0.2",
+      "builtin": false
+    },
+    {
+      "id": "acebunny00.gemini-cli-launcher",
+      "version": "0.1.0",
+      "builtin": false
+    },
+    {
+      "id": "akipg.debug-variable-actions-vscode",
+      "version": "0.0.34",
+      "builtin": false
+    },
+    {
+      "id": "alekseialeinikov.dev-env-diff",
+      "version": "0.3.5",
+      "builtin": false
+    },
+    {
+      "id": "AndrewButson.github-copilot-llm-gateway",
+      "version": "1.9.0",
+      "builtin": false
+    },
+    {
+      "id": "arktypeio.arkdark",
+      "version": "6.6.0",
+      "builtin": false
+    },
+    {
+      "id": "Arm.device-manager",
+      "version": "1.22.0",
+      "builtin": false
+    },
+    {
+      "id": "artificial.artificial-debug-extension",
+      "version": "1.3.0",
+      "builtin": false
+    },
+    {
+      "id": "AtulHritik.codequality-suite",
+      "version": "0.1.0",
+      "builtin": false
+    },
+    {
+      "id": "autoreg.autoreg-skill-installer",
+      "version": "1.1.3",
+      "builtin": false
+    },
+    {
+      "id": "BeardedBear.beardedicons",
+      "version": "1.22.0",
+      "builtin": false
+    },
+    {
+      "id": "bierner.emojisense",
+      "version": "0.10.0",
+      "builtin": false
+    },
+    {
+      "id": "bierner.markdown-mermaid",
+      "version": "1.32.1",
+      "builtin": false
+    },
+    {
+      "id": "bierner.markdown-preview-github-styles",
+      "version": "2.2.0",
+      "builtin": false
+    },
+    {
+      "id": "broadinstitute.wdl",
+      "version": "1.0.0",
+      "builtin": false
+    },
+    {
+      "id": "broadinstitute.wdl-devtools",
+      "version": "0.0.90",
+      "builtin": false
+    },
+    {
+      "id": "chamboug.js-auto-backticks",
+      "version": "1.2.0",
+      "builtin": false
+    },
+    {
+      "id": "christian-kohler.npm-intellisense",
+      "version": "1.4.5",
+      "builtin": false
+    },
+    {
+      "id": "chwoerz.type-buddy",
+      "version": "0.0.7",
+      "builtin": false
+    },
+    {
+      "id": "cmmanu.flip-test-switcher",
+      "version": "1.1.1",
+      "builtin": false
+    },
+    {
+      "id": "CodeLens.codelens-api-docs",
+      "version": "0.1.2",
+      "builtin": false
+    },
+    {
+      "id": "codespaces-contrib.codeswing",
+      "version": "0.0.25",
+      "builtin": false
+    },
+    {
+      "id": "compliance-documenter.compliance-documenter-healthcare",
+      "version": "1.0.4",
+      "builtin": false
+    },
+    {
+      "id": "criticaldeveloper.critical-gate-vscode",
+      "version": "2.10.1",
+      "builtin": false
+    },
+    {
+      "id": "csedge.csedge-port-manager",
+      "version": "1.0.1",
+      "builtin": false
+    },
+    {
+      "id": "d-biehl.robotcode-gherkin",
+      "version": "0.2.1",
+      "builtin": false
+    },
+    {
+      "id": "DanLambiase.lmstudio-copilot-provider",
+      "version": "1.30.7",
+      "builtin": false
+    },
+    {
+      "id": "DavidAnson.vscode-markdownlint",
+      "version": "0.62.1",
+      "builtin": false
+    },
+    {
+      "id": "dbaeumer.vscode-eslint",
+      "version": "3.0.34",
+      "builtin": false
+    },
+    {
+      "id": "debanshupanigrahi.quickserve",
+      "version": "1.4.0",
+      "builtin": false
+    },
+    {
+      "id": "denoland.vscode-deno",
+      "version": "3.53.1",
+      "builtin": false
+    },
+    {
+      "id": "docker.docker",
+      "version": "0.18.0",
+      "builtin": false
+    },
+    {
+      "id": "dojofive.embedops-vscode",
+      "version": "1.1.1",
+      "builtin": false
+    },
+    {
+      "id": "donjayamanne.githistory",
+      "version": "0.6.20",
+      "builtin": false
+    },
+    {
+      "id": "eamodio.gitlens",
+      "version": "19.2.0",
+      "builtin": false
+    },
+    {
+      "id": "eclipse-cdt.serial-monitor",
+      "version": "2.0.0",
+      "builtin": false
+    },
+    {
+      "id": "ecmel.vscode-html-css",
+      "version": "2.0.14",
+      "builtin": false
+    },
+    {
+      "id": "edwinhuish.better-comments-next",
+      "version": "3.5.2",
+      "builtin": false
+    },
+    {
+      "id": "esbenp.prettier-vscode",
+      "version": "12.4.0",
+      "builtin": false
+    },
+    {
+      "id": "estraw1059.vs-endpoint-explorer",
+      "version": "0.0.1",
+      "builtin": false
+    },
+    {
+      "id": "Fey.oscura",
+      "version": "0.1.4",
+      "builtin": false
+    },
+    {
+      "id": "flaky-agent.flakytest-xray",
+      "version": "1.0.1",
+      "builtin": false
+    },
+    {
+      "id": "flowstride.flowstride-vscode",
+      "version": "1.0.3",
+      "builtin": false
+    },
+    {
+      "id": "Forgen.forgen-beta",
+      "version": "0.1.3",
+      "builtin": false
+    },
+    {
+      "id": "formulahendry.auto-close-tag",
+      "version": "0.5.15",
+      "builtin": false
+    },
+    {
+      "id": "formulahendry.auto-complete-tag",
+      "version": "0.1.0",
+      "builtin": false
+    },
+    {
+      "id": "formulahendry.auto-rename-tag",
+      "version": "0.1.10",
+      "builtin": false
+    },
+    {
+      "id": "garvit-magoo.accessify",
+      "version": "1.2.1",
+      "builtin": false
+    },
+    {
+      "id": "GBTI.snapshots-for-ai",
+      "version": "8.2.0",
+      "builtin": false
+    },
+    {
+      "id": "GitHub.codespaces",
+      "version": "1.18.16",
+      "builtin": false
+    },
+    {
+      "id": "GitHub.copilot-chat",
+      "version": "0.67.0",
+      "builtin": false
+    },
+    {
+      "id": "github.vscode-github-actions",
+      "version": "0.32.3",
+      "builtin": false
+    },
+    {
+      "id": "gitoza.gitoza-yaml-test-cases",
+      "version": "0.3.2",
+      "builtin": false
+    },
+    {
+      "id": "golang.go",
+      "version": "0.57.2",
+      "builtin": false
+    },
+    {
+      "id": "Gruntfuggly.todo-tree",
+      "version": "0.0.226",
+      "builtin": false
+    },
+    {
+      "id": "hediet.vscode-drawio",
+      "version": "1.11.0",
+      "builtin": false
+    },
+    {
+      "id": "henry-huang.http-forge",
+      "version": "0.16.40",
+      "builtin": false
+    },
+    {
+      "id": "henry-huang.http-forge-mcp",
+      "version": "0.1.2",
+      "builtin": false
+    },
+    {
+      "id": "henry-huang.node-api-forge",
+      "version": "0.1.1",
+      "builtin": false
+    },
+    {
+      "id": "HidenobuNagai.nvidia-nim-provider",
+      "version": "0.3.6",
+      "builtin": false
+    },
+    {
+      "id": "HuangShao.console-manager",
+      "version": "0.0.7",
+      "builtin": false
+    },
+    {
+      "id": "HuggingFace.huggingface-vscode-chat",
+      "version": "0.3.0",
+      "builtin": false
+    },
+    {
+      "id": "idl.idl-for-vscode",
+      "version": "6.2.2",
+      "builtin": false
+    },
+    {
+      "id": "IntelliTest.debuggo",
+      "version": "0.0.11",
+      "builtin": false
+    },
+    {
+      "id": "Ionide.Ionide-fsharp",
+      "version": "7.31.1",
+      "builtin": false
+    },
+    {
+      "id": "johnny-zhao.oai-compatible-copilot",
+      "version": "0.4.2",
+      "builtin": false
+    },
+    {
+      "id": "julialang.language-julia",
+      "version": "1.243.2",
+      "builtin": false
+    },
+    {
+      "id": "kamikillerto.vscode-colorize",
+      "version": "0.17.1",
+      "builtin": false
+    },
+    {
+      "id": "kevincncaplescu.cloakd",
+      "version": "2.0.0",
+      "builtin": false
+    },
+    {
+      "id": "KylinIdeTeam.cmake-intellisence",
+      "version": "0.8.2",
+      "builtin": false
+    },
+    {
+      "id": "KylinIdeTeam.kylin-cmake-tools",
+      "version": "0.4.3",
+      "builtin": false
+    },
+    {
+      "id": "luke-callaghan.wtaniwe",
+      "version": "0.0.163",
+      "builtin": false
+    },
+    {
+      "id": "marcovr.actions-shell-scripts",
+      "version": "1.1.0",
+      "builtin": false
+    },
+    {
+      "id": "mechatroner.rainbow-csv",
+      "version": "3.24.1",
+      "builtin": false
+    },
+    {
+      "id": "mikestead.dotenv",
+      "version": "1.0.1",
+      "builtin": false
+    },
+    {
+      "id": "mkxml.vscode-filesize",
+      "version": "3.2.2",
+      "builtin": false
+    },
+    {
+      "id": "ms-azuretools.vscode-azure-github-copilot",
+      "version": "1.0.236",
+      "builtin": false
+    },
+    {
+      "id": "ms-azuretools.vscode-azure-mcp-server",
+      "version": "2.0.46",
+      "builtin": false
+    },
+    {
+      "id": "ms-azuretools.vscode-azureresourcegroups",
+      "version": "0.13.1",
+      "builtin": false
+    },
+    {
+      "id": "ms-azuretools.vscode-bicep",
+      "version": "0.47.16",
+      "builtin": false
+    },
+    {
+      "id": "ms-azuretools.vscode-containers",
+      "version": "2.5.2",
+      "builtin": false
+    },
+    {
+      "id": "ms-dotnettools.csharp",
+      "version": "2.160.4",
+      "builtin": false
+    },
+    {
+      "id": "ms-dotnettools.vscode-dotnet-pack",
+      "version": "1.0.13",
+      "builtin": false
+    },
+    {
+      "id": "ms-dotnettools.vscode-dotnet-runtime",
+      "version": "3.2.0",
+      "builtin": false
+    },
+    {
+      "id": "ms-python.debugpy",
+      "version": "2026.6.0",
+      "builtin": false
+    },
+    {
+      "id": "ms-python.python",
+      "version": "2026.4.0",
+      "builtin": false
+    },
+    {
+      "id": "ms-python.vscode-pylance",
+      "version": "2026.4.1",
+      "builtin": false
+    },
+    {
+      "id": "ms-python.vscode-python-envs",
+      "version": "1.38.0",
+      "builtin": false
+    },
+    {
+      "id": "ms-toolsai.jupyter",
+      "version": "2025.9.1",
+      "builtin": false
+    },
+    {
+      "id": "ms-toolsai.jupyter-keymap",
+      "version": "1.1.2",
+      "builtin": false
+    },
+    {
+      "id": "ms-toolsai.jupyter-renderers",
+      "version": "1.3.0",
+      "builtin": false
+    },
+    {
+      "id": "ms-toolsai.vscode-jupyter-cell-tags",
+      "version": "0.1.9",
+      "builtin": false
+    },
+    {
+      "id": "ms-toolsai.vscode-jupyter-slideshow",
+      "version": "0.1.6",
+      "builtin": false
+    },
+    {
+      "id": "ms-windows-ai-studio.windows-ai-studio",
+      "version": "1.6.14",
+      "builtin": false
+    },
+    {
+      "id": "mtxr.sqltools",
+      "version": "0.28.6",
+      "builtin": false
+    },
+    {
+      "id": "myriad-dreamin.tinymist",
+      "version": "0.15.8",
+      "builtin": false
+    },
+    {
+      "id": "nicoespeon.abracadabra",
+      "version": "9.12.0",
+      "builtin": false
+    },
+    {
+      "id": "oderwat.indent-rainbow",
+      "version": "8.3.1",
+      "builtin": false
+    },
+    {
+      "id": "Ollama.ollama",
+      "version": "0.0.9",
+      "builtin": false
+    },
+    {
+      "id": "oxc.oxc-vscode",
+      "version": "1.62.0",
+      "builtin": false
+    },
+    {
+      "id": "PawelUchida-Psztyc.lupa-vscode",
+      "version": "0.1.2",
+      "builtin": false
+    },
+    {
+      "id": "pmneo.tsimporter",
+      "version": "2.0.1",
+      "builtin": false
+    },
+    {
+      "id": "Prisma.prisma",
+      "version": "31.12.10",
+      "builtin": false
+    },
+    {
+      "id": "Prisma.prisma-insider",
+      "version": "31.12.11",
+      "builtin": false
+    },
+    {
+      "id": "Puberty-Labs.refuctor-cursor",
+      "version": "1.0.1",
+      "builtin": false
+    },
+    {
+      "id": "rakshex.rakshex-vscode",
+      "version": "0.2.1",
+      "builtin": false
+    },
+    {
+      "id": "redhat.vscode-xml",
+      "version": "0.29.3",
+      "builtin": false
+    },
+    {
+      "id": "redking00.vscode-nbts",
+      "version": "1.0.31",
+      "builtin": false
+    },
+    {
+      "id": "RipanKumarDeb.blastradius",
+      "version": "1.0.0",
+      "builtin": false
+    },
+    {
+      "id": "ritwickdey.LiveServer",
+      "version": "5.7.10",
+      "builtin": false
+    },
+    {
+      "id": "SaikatDas.output-formatter",
+      "version": "1.2.4",
+      "builtin": false
+    },
+    {
+      "id": "scala-lang.scala",
+      "version": "0.5.10",
+      "builtin": false
+    },
+    {
+      "id": "scalameta.metals",
+      "version": "1.71.0",
+      "builtin": false
+    },
+    {
+      "id": "selfagency.opilot",
+      "version": "1.8.4",
+      "builtin": false
+    },
+    {
+      "id": "semanticdiff.semanticdiff",
+      "version": "0.10.0",
+      "builtin": false
+    },
+    {
+      "id": "Snehal.snehal-anywhere-notes",
+      "version": "1.0.4",
+      "builtin": false
+    },
+    {
+      "id": "stillworks.stillworks",
+      "version": "0.3.2",
+      "builtin": false
+    },
+    {
+      "id": "supercomplete.vscode-supercomplete",
+      "version": "1.0.93",
+      "builtin": false
+    },
+    {
+      "id": "SurajPagi.projectexplainer",
+      "version": "1.0.1",
+      "builtin": false
+    },
+    {
+      "id": "tamasfe.even-better-toml",
+      "version": "0.21.2",
+      "builtin": false
+    },
+    {
+      "id": "teginsoft.vscode-mock-api-gen",
+      "version": "0.1.0",
+      "builtin": false
+    },
+    {
+      "id": "TestMasterHubAI.AIRAIInteractionRecorder",
+      "version": "0.1.6",
+      "builtin": false
+    },
+    {
+      "id": "tlaplus.vscode-ide",
+      "version": "2026.9.251644",
+      "builtin": false
+    },
+    {
+      "id": "TypeScriptTeam.jsts-chat-features",
+      "version": "0.0.4",
+      "builtin": false
+    },
+    {
+      "id": "Tyriar.luna-paint",
+      "version": "0.18.0",
+      "builtin": false
+    },
+    {
+      "id": "unifiedjs.vscode-mdx",
+      "version": "1.8.18",
+      "builtin": false
+    },
+    {
+      "id": "vicanent.gcmp",
+      "version": "0.28.4",
+      "builtin": false
+    },
+    {
+      "id": "vincaslt.highlight-matching-tag",
+      "version": "0.11.0",
+      "builtin": false
+    },
+    {
+      "id": "vitest.explorer",
+      "version": "1.52.1",
+      "builtin": false
+    },
+    {
+      "id": "Vizards.deepseek-v4-for-copilot",
+      "version": "0.9.3",
+      "builtin": false
+    },
+    {
+      "id": "vortex-extensions.microcks-vscode",
+      "version": "1.0.2",
+      "builtin": false
+    },
+    {
+      "id": "vuuvv.go-bench",
+      "version": "0.0.7",
+      "builtin": false
+    },
+    {
+      "id": "Walkfares.opendatadsl",
+      "version": "1.0.0",
+      "builtin": false
+    },
+    {
+      "id": "WallabyJs.console-ninja",
+      "version": "1.0.541",
+      "builtin": false
+    },
+    {
+      "id": "wayou.vscode-todo-highlight",
+      "version": "1.0.5",
+      "builtin": false
+    },
+    {
+      "id": "WingzhongZau.hoshi-lang",
+      "version": "0.0.4",
+      "builtin": false
+    },
+    {
+      "id": "wix.vscode-import-cost",
+      "version": "3.3.0",
+      "builtin": false
+    },
+    {
+      "id": "Wscats.cors-browser",
+      "version": "1.0.11",
+      "builtin": false
+    },
+    {
+      "id": "xyz.local-history",
+      "version": "1.8.1",
+      "builtin": false
+    },
+    {
+      "id": "yandeu.five-server",
+      "version": "0.4.0",
+      "builtin": false
+    },
+    {
+      "id": "YAPrepo.reporelic",
+      "version": "1.1.0",
+      "builtin": false
+    },
+    {
+      "id": "YoavBls.pretty-ts-errors",
+      "version": "0.8.7",
+      "builtin": false
+    },
+    {
+      "id": "YuTengjing.package-manager-enhancer",
+      "version": "0.18.3",
+      "builtin": false
+    },
+    {
+      "id": "zardoy.ts-essential-plugins",
+      "version": "0.0.81",
+      "builtin": false
+    },
+    {
+      "id": "Zignd.html-css-class-completion",
+      "version": "1.20.0",
+      "builtin": false
+    }
+  ],
+  "shellRc": [],
+  "path": [
+    "C:\\WINDOWS\\system32",
+    "C:\\WINDOWS",
+    "C:\\WINDOWS\\System32\\Wbem",
+    "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\",
+    "C:\\WINDOWS\\System32\\OpenSSH\\",
+    "C:\\Program Files\\dotnet\\",
+    "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\",
+    "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\",
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\",
+    "C:\\Users\\SNAP\\Git\\cmd",
+    "C:\\Users\\SNAP\\AppData\\Local\\agy\\bin",
+    "C:\\Users\\SNAP\\.local\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\Microsoft\\WindowsApps",
+    "C:\\Users\\SNAP\\AppData\\Local\\GitHubDesktop\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\Programs\\Antigravity IDE\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\XPipe\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\Microsoft\\WinGet\\Packages\\GitKraken.cli_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "C:\\Users\\SNAP\\AppData\\Local\\Google\\Cloud SDK\\google-cloud-sdk\\bin",
+    "C:\\Users\\SNAP\\.dotnet\\tools",
+    "C:\\Users\\SNAP\\AppData\\Roaming\\Testcontainers Desktop\\",
+    "C:\\Users\\SNAP\\AppData\\Local\\Microsoft\\WinGet\\Packages\\GitHub.Copilot_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "C:\\ProgramData\\SNAP\\GitHubDesktop\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\Programs\\Ollama",
+    "C:\\Users\\SNAP\\AppData\\Local\\Programs\\Zed\\bin",
+    "C:\\Users\\SNAP\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
+  ],
+  "warnings": []
+}
